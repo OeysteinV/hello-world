@@ -4,4 +4,4 @@ My favorite food is milksteak. You'll need the following:
 * Steak
 * Jelly beans
 
-Recipe: Boil milk. Add steak. Boil for 10 minutes. Serve the milksteak with a side of raw jellybeans. Enjoy!
+Recipe: Boil milk. Add steak. Boil for 10 minutes. Serve the milksteak with a side of raw jelly beans. Enjoy!
